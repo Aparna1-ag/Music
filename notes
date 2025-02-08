@@ -1,0 +1,5 @@
+Create your server object using the host, username and passoword w createconnection method in mysql2
+
+Connect to this server using the connect method.
+query is used to run SQL queries.
+
